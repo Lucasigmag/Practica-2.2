@@ -1,0 +1,50 @@
+header{
+    text-align: center;
+    background-color: lightblue;
+    background-size: 150%;
+
+}
+img.Valencia{
+    height: 250px;
+    width: 250px;
+}
+
+img.Valencia:hover{
+    opacity: 0.5;
+}
+
+div.c{
+    text-align: center;
+}
+
+p.cent{
+    text-align: center;
+    font-size: 200%;
+}
+
+span.t:hover{
+    background-color: lightblue;
+    font-weight: bold;
+}
+
+div.b{
+    border-top: 30px blue solid;
+    border-bottom: 30px blue solid;
+}
+
+div.i{
+    background-image: url(img/valencia_antigua.jpg);
+    margin-right: 40%;
+    color: blue;
+    border: 2px black solid;
+}
+
+footer.f{
+    text-align: center;
+    background-color: lightblue;
+}
+
+img.w{
+    height: 25%;
+    width: 25%;
+}
